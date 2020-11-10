@@ -15,7 +15,7 @@ NIST DART-MS Library Builder program.
 
 Once the previously mentioned programs are installed, ensure 
 that the "main_file.xlsx" and  "main_folder" as described in 
-the application note, is added to the "NIST-DARTMS-DBB" folder. 
+the application note, is added to the "DART-MS-DBB" folder. 
 Refer to this folder as the parent folder.
 
 Open R and *change the working directory* to the parent folder.
